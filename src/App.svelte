@@ -8,7 +8,7 @@
   import {
     App,
     View,
-  } from 'framework7-svelte';
+  } from 'framework7-cn-svelte';
 
   import routes from './routes';
 

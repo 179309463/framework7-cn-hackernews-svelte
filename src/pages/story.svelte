@@ -26,7 +26,7 @@
         Block,
         BlockHeader,
         Preloader
-    } from 'framework7-svelte';
+    } from 'framework7-cn-svelte';
     import { pluralize } from '../utils';
     import Comment from '../components/Comment.svelte';
 

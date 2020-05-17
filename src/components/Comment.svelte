@@ -12,7 +12,7 @@
     import {
         Block,
         BlockHeader
-    } from 'framework7-svelte';
+    } from 'framework7-cn-svelte';
 
     export let comment;
 

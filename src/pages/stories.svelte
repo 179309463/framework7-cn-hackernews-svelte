@@ -39,7 +39,7 @@
     Block,
     SwipeoutActions,
     SwipeoutButton
-  } from 'framework7-svelte';
+  } from 'framework7-cn-svelte';
   import { pluralize } from '../utils';
   
   let page = 1;

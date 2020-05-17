@@ -2,7 +2,7 @@
 import Framework7 from './framework7-custom'
 
 // Import Framework7-Svelte Plugin
-import Framework7Svelte from 'framework7-svelte';
+import Framework7Svelte from 'framework7-cn-svelte';
 
 // Import Framework7 Styles
 import './framework7-custom.less';
